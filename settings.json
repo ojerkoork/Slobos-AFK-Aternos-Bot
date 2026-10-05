@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KoledzySMPv2.aternos.me",
-    "port": 16402,
+    "ip": "Wilczemc.aternos.me",
+    "port": 15723,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 1,
+    "auto-reconnect-delay": 60,
     "max-reconnect-delay": 120000
   },
   "movement": {

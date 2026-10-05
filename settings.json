@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ZwinnyWilk2137fp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Wilczemc.aternos.me",
+    "port": 15723,
     "version": "",
     "try-creative": false
   },
@@ -24,22 +24,22 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "kto chce ity /tpa",
+        "Subscrybuj ZwinnyWilk2137fp!",
+        "Wilczemc to najlepszy serwer!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 60,
+    "max-reconnect-delay": 120
   },
   "movement": {
     "enabled": true,
